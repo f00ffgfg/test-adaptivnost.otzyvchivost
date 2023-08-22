@@ -1,0 +1,14 @@
+.wrapper
+{
+    margin:0 auto;
+    background:#fc4c4c;
+    width:800px;
+}
+@media (max-width:950px)
+{
+    .wrapper
+    {
+        width:500px;
+        background: cadetblue;
+    }
+}
